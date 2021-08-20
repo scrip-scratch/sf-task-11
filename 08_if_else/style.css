@@ -1,0 +1,7 @@
+* {
+    font-family: 'Open Sans', monospace;
+}
+
+.start-game, .game-card, .condition-card, .new-alert {
+    height: 70vh;
+}
